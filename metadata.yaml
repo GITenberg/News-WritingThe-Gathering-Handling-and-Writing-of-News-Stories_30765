@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34816
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Lyle_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30765#News-WritingThe-Gathering-Handling-and-Writing-of-News-Stories
 gutenberg_issued: '2009-12-26'
 gutenberg_type: Text
 identifiers:

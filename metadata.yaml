@@ -1,0 +1,31 @@
+_repo: News-WritingThe-Gathering-Handling-and-Writing-of-News-Stories_30765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spencer, M. Lyle (Matthew Lyle)
+    alias: Spencer, Matthew Lyle
+    birthdate: 1881
+    deathdate: 1969
+    gutenberg_agent_id: '34816'
+    url: http://www.gutenberg.org/2009/agents/34816
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Lyle_Spencer
+description: ''
+gutenberg_issued: '2009-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30765'
+  lccn: '17022673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Reporters and reporting'
+title: 'News Writing
+
+  The Gathering , Handling and Writing of News Stories'
+url: http://www.gutenberg.org/ebooks/30765
